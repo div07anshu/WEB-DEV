@@ -10,7 +10,6 @@ body {
     color: #1f2937;
 }
 
-/* ===== Header Section ===== */
 .top-header {
     background: linear-gradient(135deg, #111827, #1f2937);
     color: #ffffff;
@@ -35,7 +34,6 @@ body {
     font-size: 1rem;
 }
 
-/* ===== Search Bar ===== */
 .search-box {
     display: flex;
     justify-content: center;
@@ -95,7 +93,6 @@ body {
     margin-bottom: 1rem;
 }
 
-/* Random colors */
 .c1 {
     background: #6366f1;
 }
@@ -128,39 +125,6 @@ body {
     background: #0ea5e9;
 }
 
-.c9 {
-    background: #10b981;
-}
-
-.c10 {
-    background: #ef4444;
-}
-
-.c11 {
-    background: #a855f7;
-}
-
-.c12 {
-    background: #22d3ee;
-}
-
-.c13 {
-    background: #84cc16;
-}
-
-.c14 {
-    background: #f43f5e;
-}
-
-.c15 {
-    background: #6366f1;
-}
-
-.c16 {
-    background: #fb7185;
-}
-
-/* Text */
 .book-card h3 {
     font-size: 1.05rem;
     margin-bottom: 0.3rem;
